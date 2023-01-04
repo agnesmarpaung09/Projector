@@ -1,5 +1,6 @@
-# Projector
-Face Recognition-Based Attendance System using the Random Forest method
+# Face Recognition-Based Attendance System using the Random Forest Method
+
+## Description
 
 The attendance system is very important as data collection in an agency. And usually, to do absenteeism is done manually using paper. This is certainly less effective in terms of security. If using paper ; 
 - will be vulnerable to signature fraud
